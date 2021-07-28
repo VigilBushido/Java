@@ -1,6 +1,6 @@
 
 [![Header](https://i.postimg.cc/7h8Gz43N/IMG-1643.jpg "Header")](https://github.com/vigilbushido/)
-view rawheader hosted with ❤ by GitHub
+hosted with ❤ by GitHub
 
 # Java
 
